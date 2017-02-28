@@ -1,0 +1,1 @@
+export whatever from './whatever';
